@@ -18,10 +18,10 @@ If my code works, please don't ask me why. 🤫
 ## 📊 GitHub Stats
 
 <a href="https://github.com/tuanha-98">
-  <img height="165" alt="GitHub stats for tuanha-98" src="https://github-stats-extended.vercel.app/api?username=tuanha-98&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" />
+  <img height="150" alt="GitHub stats for tuanha-98" src="https://github-stats-extended.vercel.app/api?username=tuanha-98&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" />
 </a>
 <a href="https://github.com/tuanha-98?tab=repositories">
-  <img height="165" alt="Most used languages for tuanha-98" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tuanha-98&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" />
+  <img height="150" alt="Most used languages for tuanha-98" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tuanha-98&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" />
 </a>
 
 </div>
